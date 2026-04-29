@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pac
+*.zip
+haas-studio-analysis/
+PAC-Extractor/
+sharkalaka/
+spreadtrum_flash/
+pac_output/
+.DS_Store
+.venv/
+*.bin
+*.img
